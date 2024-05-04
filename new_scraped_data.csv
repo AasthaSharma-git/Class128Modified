@@ -1,0 +1,15 @@
+id,planet_radius,planet_type,detection_method,planet_mass,discovery_date,orbital_radius,orbital_type,eccentricity
+0,1.664 x Earth,Super Earth,Transit,3.41 Earths,2024,0.1054 AU,14.4 days,
+1,1.23 x Jupiter (estimate),Gas Giant,Microlensing,1.08 Jupiters,2024,1.41 AU,4.1 years,
+2,1.26 x Jupiter (estimate),Gas Giant,Microlensing,0.63 Jupiters,2024,1.18 AU,3.1 years,
+3,0.327 x Jupiter (estimate),Neptune-like,Microlensing,13.03096 Earths,2024,2.96 AU,6.4 years,
+4,1.07 x Jupiter (estimate),Gas Giant,Imaging,23.6 Jupiters,2024,22.1 AU,84.9 years,0.55
+5,1.833 x Earth,Super Earth,Transit,4.02 Earths,2024,0.051 AU,6 days,
+6,1.422 x Earth,Super Earth,Transit,2.61 Earths,2024,0.0207 AU,2.3 days,
+7,0.928 x Jupiter,Gas Giant,Transit,0.96 Jupiters,2024,0.408 AU,98.3 days,0.29
+8,0.25 x Jupiter,Gas Giant,Transit,23 Jupiters,2023,0.5 AU,19 days,0.36
+9,1.821 x Earth,Super Earth,Transit,3.97 Earths,2024,0.0632 AU,7.8 days,
+10,1.625 x Earth,Super Earth,Transit,3.27 Earths,2024,0.0352 AU,4.2 days,
+11,1.21 x Jupiter (estimate),Gas Giant,Microlensing,1.62 Jupiters,2024,1.14 AU,2.2 years,
+12,1.14 x Jupiter (estimate),Gas Giant,Microlensing,5.9 Jupiters,2024,2.09 AU,3.8 years,
+13,1.16 x Jupiter (estimate),Gas Giant,Microlensing,3.8 Jupiters,2024,2.53 AU,5.9 years,
